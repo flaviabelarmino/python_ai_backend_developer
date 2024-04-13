@@ -6,10 +6,8 @@
 ### 📚 Python - Resumos das Aulas 
 | Aula | Conteúdos |
 |-------|-----------|
-| 01 | Conceitos iniciais de Python |
-| 02 | Tipos de operadores com Python |
-| 03 | Estruturas condicionais e de repetição em Python |
-| 04 | Manipulando strings com Python |
+| 01 | Fundamentos |
+| 02 | Estruturas de dados |
 | ... | ... |
 
 ### 🚀 Desafios - Python AI Backend Developer
