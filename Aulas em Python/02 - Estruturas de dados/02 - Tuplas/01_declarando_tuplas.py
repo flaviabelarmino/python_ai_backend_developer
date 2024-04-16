@@ -1,6 +1,6 @@
 frutas = (
     "laranja",
-    "pera",
+    "banana",
     "uva",
 )
 print(frutas)
