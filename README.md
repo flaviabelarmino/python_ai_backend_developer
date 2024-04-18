@@ -10,7 +10,7 @@
 | 02 | Estruturas de dados |
 | ... | ... |
 
-### 🚀 Desafios - Python AI Backend Developer
+### 🚀 Desafios de Projeto - Python AI Backend Developer
 | Desafio | Tema | Link |
 | -------- | ---- | ---- |
 | 1º | Sistema bancário simples | [GitHub - Desafio 1](https://github.com/flaviabelarmino/python_ai_backend_developer/blob/main/Desafios%20em%20Python/desafio_1_sistema_bancario.py)
